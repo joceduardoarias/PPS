@@ -1,0 +1,7 @@
+{
+  "name": "soyBilingue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
